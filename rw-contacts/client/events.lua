@@ -1,2 +1,1 @@
-RegisterNetEvent('rw-contacts:event1', function()
-end)
+-- wait for the next update
